@@ -1,0 +1,12 @@
+img_size: 240
+batch_size: 32
+epochs: 10
+num_classes: 3
+
+data_dir: "data/raw"
+model_path: "outputs/models/tire_cnn.h5"
+
+class_names:
+  - flat
+  - full
+  - no-tire
