@@ -21,7 +21,7 @@ def load_model():
 
 model = load_model()
 
-st.title("🛞 Tire Condition Detection (Deep Learning CNN)")
+st.title(" Tire Condition Detection (Deep Learning CNN)")
 
 uploaded = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
@@ -36,3 +36,4 @@ if uploaded:
 
     st.subheader(f"Prediction: **{CLASS_NAMES[idx]}**")
     st.write(f"Confidence: **{pred[idx]*100:.2f}%**")
+
