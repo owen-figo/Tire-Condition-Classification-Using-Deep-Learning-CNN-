@@ -182,7 +182,7 @@ http://localhost:8501
 Due to GitHub file size limitations, the demo video is hosted externally.
 
 🎥 **Demo Video (Google Drive)**
-👉 [[https://drive.google.com/file/d/FILE_ID/preview](https://drive.google.com/file/d/FILE_ID/preview)](https://drive.google.com/file/d/1a2WvTVr22QpxtNe0iIirI0IuamCD8LE5/view?usp=sharing)
+👉(https://drive.google.com/file/d/1a2WvTVr22QpxtNe0iIirI0IuamCD8LE5/view?usp=sharing)
 
 ---
 
