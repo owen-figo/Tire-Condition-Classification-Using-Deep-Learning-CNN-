@@ -50,14 +50,6 @@ The CNN architecture consists of:
 
 The model outputs class probabilities using **Softmax**:
 
-[
-p_i = \frac{e^{z_i}}{\sum_{j=1}^{3} e^{z_j}}
-]
-
-The final prediction is selected using:
-[
-\hat{y} = \arg\max(p)
-]
 
 The confidence score is the highest softmax probability.
 
