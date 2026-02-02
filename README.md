@@ -99,7 +99,7 @@ DL_AOL/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/owen-figo/Tire-Condition-Classification-Using-Deep-Learning-CNN-
 cd DL_AOL
 ```
 
